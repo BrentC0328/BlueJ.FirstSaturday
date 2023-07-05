@@ -1,11 +1,11 @@
-package src.test.java;
+//import src.main.java.WriteLoops;
 
-import static org.junit.Assert.*;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import src.main.java.WriteLoops;
+import static org.junit.Assert.assertEquals;
 
 /**
  * The test class src.test.java.WriteLoopsTest.

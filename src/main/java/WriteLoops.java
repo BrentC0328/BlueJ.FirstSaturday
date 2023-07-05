@@ -1,4 +1,4 @@
-package src.main.java;
+
 
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -212,7 +212,7 @@ public class WriteLoops {
 
     // Foo is method that add the first 7 factors of three together and prints
     // out the sum of them all.
-    public int foo() {
+    public int foo(int[] i) {
         int w = 0;
         // this is an array of ints. it is of length 7 (from 0 -> 6)
         int sumOfThrees = 0;
